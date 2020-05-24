@@ -9,5 +9,4 @@ public class AwsDbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AwsDbApplication.class, args);
 	}
-
 }
